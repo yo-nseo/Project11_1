@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Project11_1</string>
+    <string name="poster_title01">영화1</string>
+    <string name="poster_title02">영화2</string>
+    <string name="poster_title03">영화3</string>
+    <string name="poster_title04">영화4</string>
+    <string name="poster_title05">영화5</string>
+    <string name="poster_title06">영화6</string>
+    <string name="poster_title07">영화7</string>
+    <string name="poster_title08">영화8</string>
+    <string name="poster_title09">영화9</string>
+    <string name="poster_title10">영화10</string>
 </resources>
